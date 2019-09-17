@@ -62,19 +62,3 @@ An example view of the application where your items are presented. The list is o
 1. https://www.worldvision.org/hunger-news-stories/food-waste
 1. http://www.fao.org/save-food/resources/keyfindings/en/
 1. https://www.wfpusa.org/stories/8-facts-to-know-about-food-waste-and-hunger/
-
-
-remove below line
-
----
-
-
-* Team name: Sour dough
-* Team members: 
-* Challenge: Food waste challange
-* Our solution: (a short description of the idea)
-* Presentation slides (maximum 3 slides in Power Point or Keynote format, no video content)
-* Applied license
-* Services used
-* Languages used
-* Optional: points of interest in the code
