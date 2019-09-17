@@ -27,7 +27,7 @@ If wasted food were a country, it would be the third largest producer of carbon 
 **No one wants to throw away food but we anyway end up throwing away tons of food each year. One reason is that you forget what you have in your refrigirator and food cabinets, and perhaps lack of a way of organising what you actually have stored. We can help you catalogize and remind you about what food you have at home! Also, help you come up with new ideas of how to use your groceries and leftovers.**
 ## Solution
 
-**Presentation slides**: [Foodiary_Presentation_Team_Sourdough.key](Foodiary_Presentation_Team_Sourdough.key«)
+**Presentation slides**: [Foodiary_Presentation_Team_Sourdough.key](Foodiary_Presentation_Team_Sourdough.key)
 
 #### Slide 1 - Foodiary
 *Foodiary* is a mobile application where you can keep track of what you have in you refrigerator and storage cabinets. It reminds you to eat your leftovers and use your groceries before they expire. 
